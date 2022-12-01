@@ -1,0 +1,219 @@
+[
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "Wins": 15,
+      "points": 454,
+      "nationality": "Dutch",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/max_verstappen_front.png"
+    },
+    {
+      "name": "Sergio Perez",
+      "team": "Red Bull",
+      "Wins": 2,
+      "points": 305,
+      "nationality": "Mexican",
+      "region": "North America",
+      "favorites": false,
+      "image": "images/perez_front.png"
+    },
+    {
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "Wins": 3,
+      "points": 308,
+      "nationality": "Monegasque",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/leclerc_front.png"
+    },
+    {
+      "name": "Carlos Sainz",
+      "team": "Ferrari",
+      "Wins": 1,
+      "points": 246,
+      "nationality": "Spanish",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/sainz_front.png"
+    },
+    {
+      "name": "Lewis Hamilton",
+      "team": "Mercedes",
+      "Wins": 0,
+      "points": 240,
+      "nationality": "Britsh",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/hamilton_front.png"
+    },
+    {
+      "name": "George Russell",
+      "team": "Mercedes",
+      "Wins": 1,
+      "points": 275,
+      "nationality": "British",
+      "region": "Europe",
+      "image": "images/russell_front.png"
+    },
+    {
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "Wins": 0,
+      "points": 122,
+      "nationality": "British",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/norris_front.png"
+    },
+    {
+      "name": "Daniel Ricciardo",
+      "team": "McLaren",
+      "Wins": 0,
+      "points": 37,
+      "nationality": "Australian",
+      "region": "Australia",
+      "image": "images/ricciardo_front.png"
+    },
+    {
+      "name": "Esteban Ocon",
+      "team": "Alpine F1 Team",
+      "Wins": 0,
+      "points": 92,
+      "nationality": "French",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/ocon_front.png"
+    },
+    {
+      "name": "Fernando Alonso",
+      "team": "Alpine F1 Team",
+      "Wins": 0,
+      "points": 81,
+      "nationality": "Spanish",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/alonso_front.png"
+    },
+    {
+      "name": "Valtteri Bottas",
+      "team": "Alfa Romeo",
+      "Wins": 0,
+      "points": 49,
+      "nationality": "Finnish",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/bottas_front.png"
+    },
+    {
+      "name": "Guanyu Zhou",
+      "team": "Alfa Romeo",
+      "Wins": 0,
+      "points": 6,
+      "nationality": "Chinese",
+      "region": "Asia",
+      "image": "images/zhou_front.png"
+    },
+    {
+      "name": "Sebastian Vettel",
+      "team": "Aston Martin",
+      "Wins": 0,
+      "points": 37,
+      "nationality": "German",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/vettel_front.png"
+    },
+    {
+      "name": "Lance Stroll",
+      "team": "Aston Martin",
+      "Wins": 0,
+      "points": 18,
+      "nationality": "Canadian",
+      "region": "North America",
+      "favorites": false,
+      "image": "images/stroll_front.png"
+    },
+    {
+      "name": "Kevin Magnussen",
+      "team": "Haas F1 Team",
+      "Wins": 0,
+      "points": 25,
+      "nationality": "Danish",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/kevin_magnussen_front.png"
+    },
+    {
+      "name": "Mick Schumacher",
+      "team": "Haas F1 Team",
+      "Wins": 0,
+      "points": 12,
+      "nationality": "German",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/mick_schumacher_front.png"
+    },
+    {
+      "name": "Pierre Gasly",
+      "team": "AlphaTauri",
+      "Wins": 0,
+      "points": 23,
+      "nationality": "French",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/gasly_front.png"
+    },
+    {
+      "name": "Yuki Tsunoda",
+      "team": "AlphaTauri",
+      "Wins": 0,
+      "points": 12,
+      "nationality": "Japanese",
+      "region": "Asia",
+      "favorites": false,
+      "image": "images/tsunoda_front.png"
+    },
+    {
+      "name": "Alexander Albon",
+      "team": "Williams",
+      "Wins": 0,
+      "points": 4,
+      "nationality": "Thai",
+      "region": "Asia",
+      "favorites": false,
+      "image": "images/albon_front.png"
+    },
+    {
+      "name": "Nicholas Latifi",
+      "team": "Williams",
+      "Wins": 0,
+      "points": 2,
+      "nationality": "Canadian",
+      "region": "North America",
+      "favorites": false,
+      "image": "images/latifi_front.png"
+    },
+    {
+      "name": "Nyck de Vries",
+      "team": "Williams",
+      "Wins": 0,
+      "points": 2,
+      "nationality": "Dutch",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/de_vries_front.png"
+    },
+    {
+      "name": "Nico Hulkenberg",
+      "team": "Aston Martin",
+      "Wins": 0,
+      "points": 0,
+      "nationality": "German",
+      "region": "Europe",
+      "favorites": false,
+      "image": "images/hulkenberg_front.png"
+    }
+  ]
